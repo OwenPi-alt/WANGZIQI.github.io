@@ -14,9 +14,11 @@
 
 本仓库的 GitHub Pages 来源为 `master` 分支根目录。页面使用相对资源路径，可以直接运行于本仓库的项目子路径。
 
-主站是主要维护版本。更新主站后，如需同步旧地址，将 `.gitignore`、`.nojekyll`、`index.html`、`styles.css`、`portfolio.css`、`casebook.css`、`case-studies.js`、`architecture-lab.js`、`app.js`、`resume.html` 和 `assets/favicon.svg` 同步到本仓库并提交。脚本与增量样式 URL 的版本值也需一起同步。两个仓库之间当前没有自动同步工作流。
+主站是主要维护版本。更新主站后，如需同步旧地址，将 `.gitignore`、`.nojekyll`、`index.html`、`styles.css`、`portfolio.css`、`casebook.css`、`seo-pages.css`、`case-studies.js`、`architecture-lab.js`、`app.js`、`resume.html`、`projects/` 与 `assets/` 同步到本仓库并提交。脚本与增量样式 URL 的版本值也需一起同步。两个仓库之间当前没有自动同步工作流。
 
 canonical、Open Graph 地址和复制链接按钮保留主站地址；独立域名也在主站仓库配置。
+
+独立案例页在主站生成后再同步，各页 canonical 指向主站对应页面。站点地图只列主站网址，由主站根目录的 `robots.txt` 声明；不在旧址子目录重复配置 robots，也不阻止搜索引擎读取旧页面的 canonical。
 
 ## 保留的历史
 
