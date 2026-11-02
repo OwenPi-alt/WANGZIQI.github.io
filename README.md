@@ -6,8 +6,9 @@
 - **本仓库访问地址：** https://owenpi-alt.github.io/WANGZIQI.github.io/
 - **主要源码与维护入口：** https://github.com/OwenPi-alt/owenpi-alt.github.io
 - **项目合作：** https://github.com/OwenPi-alt/owenpi-alt.github.io/issues/new?template=project-inquiry.yml
+- **公开业务邮箱：** [chuangzaoxingfuvip@gmail.com](mailto:chuangzaoxingfuvip@gmail.com)
 
-网站包含合作服务、系统架构、全栈业务、AI / AIGC、量化研究案例，以及技术体系、交付流程和可打印职业简历。项目合作需求统一在主站仓库收集。
+网站包含合作服务、系统架构、全栈业务、AI / AIGC、量化研究案例，以及技术体系、交付流程和可打印职业简历。项目合作可通过公开业务邮箱联系，GitHub 需求统一在主站仓库收集。
 
 ## 发布与维护
 
